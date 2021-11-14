@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Popeye sounds like a good rap name, but how about "Booze Chaser". It sounds quite inspiring if you really think about it.
